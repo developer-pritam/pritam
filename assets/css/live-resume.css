@@ -1,6 +1,6 @@
 
 :root {
-  --blue: #fba728;
+  --blue: #FFA500;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -133,7 +133,7 @@ a {
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #0047aa;
+    color: #FFA500;
     text-decoration: underline; }
 
 a:not([href]) {
